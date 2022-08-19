@@ -14,5 +14,4 @@ npm run dev
 ## Build & Deployment
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
-
-(ใส่ URL ที่นี่)
+https://codesandbox.io/s/zen-boyd-cwh8kr
